@@ -85,7 +85,9 @@ input#bEye {
 .books__img img {
   border: 2px solid #fff;
 }
-
+.slider__image {
+  display: flex;
+}
 /* Modal */
 .card {
   display: flex;
